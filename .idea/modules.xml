@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TabPop.iml" filepath="$PROJECT_DIR$/.idea/modules/TabPop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TabPop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TabPop_main.iml" group="TabPop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TabPop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TabPop_test.iml" group="TabPop" />
+    </modules>
+  </component>
+</project>
